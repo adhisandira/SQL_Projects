@@ -53,3 +53,10 @@ The analysis includes:
 - Business trips account for approximately 93% of total trips.
 - Peak demand is concentrated between 11:00 and 18:00.
 - Most trips are classified as efficient, with approximately 73% falling into the efficient category.
+
+## Acknowledgement
+
+This project was inspired by the following YouTube tutorial and recreated for learning and portfolio purposes.
+
+Reference:
+[https://www.youtube.com/watch?v=9A7sIFJR6gU&list=PLDMiUlv2m2BOLFwA0wex5Yl8XE7q8L3Q1&index=2]
