@@ -48,6 +48,12 @@ The analysis includes:
 - Hours with the highest proportion of inefficient trips
 - Trip purposes with the highest proportion of inefficient trips
 
+## Project Preview
+![Project Preview](images/preview1.png)
+![Project Preview](images/preview2.png)
+![Project Preview](images/preview3.png)
+![Project Preview](images/preview4.png)
+
 ## Key Findings
 
 - Business trips account for approximately 93% of total trips.
