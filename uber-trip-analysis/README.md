@@ -56,9 +56,16 @@ The analysis includes:
 
 ## Key Findings
 
-- Business trips account for approximately 93% of total trips.
-- Peak demand is concentrated between 11:00 and 18:00.
-- Most trips are classified as efficient, with approximately 73% falling into the efficient category.
+- Business trips accounted for approximately **93%** of total trips, indicating that business travel was the primary demand driver.
+- Personal trips on weekends recorded the highest average trip distance and duration.
+- Peak demand was concentrated between **11:00 AM and 6:00 PM**, with weekday demand peaking at **1:00 PM**.
+- Approximately **73%** of trips were classified as efficient, indicating generally stable trip efficiency.
+
+## Business Recommendations
+- **Prioritize Business user retention**, as this segment accounts for approximately 93% of total trips and represents the primary source of demand.
+- **Explore opportunities within Personal weekend trips**, as this segment records the highest average trip distance and duration, indicating potential for targeted service offerings.
+- **Optimize driver availability during peak demand periods** to better align driver supply with customer demand and reduce potential service delays.
+- **Consider targeted driver incentive programs during peak hours** to help maintain adequate driver coverage and service quality.
 
 ## Acknowledgement
 
